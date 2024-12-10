@@ -9,14 +9,14 @@ author_profile: true
 
 ---
 
-##In Preparation
+## In Preparation
 
 0. Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding (with Roxana Smarandache and David Mitchell, submitted)
 0. An algebraic approach to construct QC-LDPC codes with girth g and shortest blocklength
 0. QC-LDPC Expander Codes
 {: reversed="reversed"}
 
-##Published
+## Published
 
 0. Roxana Smarandache, Anthony Gómez-Fonseca and David G. M. Mitchell, “Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding,” 2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece, July 2024, pp. 434-439, doi: [10.1109/ISIT57864.2024.10619445](https://ieeexplore.ieee.org/document/10619445).
 0. Anthony Gómez-Fonseca, Roxana Smarandache and David G. M. Mitchell, “A Low Complexity PEG-like Algorithm to Construct Quasi-Cyclic LDPC Codes,” 2023 12th International Symposium on Topics in Coding (ISTC), Brest, France, September 2023, pp. 1-5, doi: [10.1109/ISTC57237.2023.10273481](https://ieeexplore.ieee.org/document/10273481).
