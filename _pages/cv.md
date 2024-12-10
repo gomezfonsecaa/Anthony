@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 You can find a copy of my CV [here](/files/Anthony_Gomez_Fonseca_CV.pdf).
