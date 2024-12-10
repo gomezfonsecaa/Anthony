@@ -30,6 +30,6 @@ Codes**, 2023 12th International Symposium on Topics in Coding (ISTC), Brest, Fr
 0. **Notes on Graph Theory and Ramanujan Graphs**, University of Puerto Rico, Río Piedras Campus. January 31, 2018.
 0. **Notes on Continued Fractions**, Graduate Seminar, University of Puerto Rico, Río Piedras Campus, June 20, 2017.
 0. **Simulacro del PEAU en Matemáticas**, Colectivo Universitario para el Acceso, University of Puerto Rico at Cayey, February 11, 2017.
-0. **El apoyo académico del CUA-UPR en Cayey: principios y retos**, (with C. Torres-Rivera, L. Rodríguez-Rivera, J. Sosa-Díaz) Segundo Encuentro Estudiantil de Investigación, Creación y Servicio Comunitario, University of Puerto Rico at Cayey, December 7, 2015.
-0. **Modelos de cazador-presa: Una nueva estrategia de persecución**, (with L. Molina-Rodríguez) Primer Encuentro Estudiantil de Investigación, Creación y Servicio Comunitario, University of Puerto Rico at Cayey, May 15, 2015.
+0. **El apoyo académico del CUA-UPR en Cayey: principios y retos**, Segundo Encuentro Estudiantil de Investigación, Creación y Servicio Comunitario, University of Puerto Rico at Cayey, December 7, 2015. (with C. Torres-Rivera, L. Rodríguez-Rivera, J. Sosa-Díaz)
+0. **Modelos de cazador-presa: Una nueva estrategia de persecución**, Primer Encuentro Estudiantil de Investigación, Creación y Servicio Comunitario, University of Puerto Rico at Cayey, May 15, 2015. (with L. Molina-Rodríguez)
 {: reversed="reversed"}
