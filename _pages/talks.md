@@ -11,7 +11,7 @@ author_profile: true
 
 0. **QC-LDPC Codes from Expander Graphs**, 2024 AMS Fall Central Sectional Meeting, The University of Texas - San Antonio, San Antonio, Texas, September 15, 2024.
 0. **Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding**, 2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece, July 2024.
-0. **An algebraic approach to construct QC-LDPC codes with girth $g$ and shortest block-length**, 2024 SIAM Spring Eastern Sectional Meeting, Howard University, Washington DC, April 6, 2024.
+0. **An algebraic approach to construct QC-LDPC codes with girth g and shortest block-length**, 2024 SIAM Spring Eastern Sectional Meeting, Howard University, Washington DC, April 6, 2024.
 0. **A Low Complexity PEG-like Algorithm to Construct Quasi-Cyclic LDPC
 Codes**, 2023 12th International Symposium on Topics in Coding (ISTC), Brest, France, September 2023. 
 0. **Using Partial Orthomorphisms to Construct Short Quasi-Cyclic LDPC Codes with Girth at Least 6**, 2023 12th International Symposium on Topics in Coding (ISTC), Brest, France, September 2023.
