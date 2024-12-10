@@ -7,4 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-I will post my publications here.
+In Preparation
+======
+
+0. first item
+0. second item
+0. another item
+{: reversed="reversed"}
+
+Published
+======
