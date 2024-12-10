@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anthony Gómez-Fonseca's Webpage"
+title: "Hi! My name is Anthony Gómez-Fonseca."
 author_profile: true
 redirect_from: 
   - /about/
