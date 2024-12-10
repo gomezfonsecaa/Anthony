@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anthony Gómez-Fonseca's Webpage"
+title                    : "Anthony Gómez-Fonseca"
 title_separator          : "-"
 name                     : &name "Anthony Gómez-Fonseca"
 description              : &description "Anthony Gómez-Fonseca's Webpage"
