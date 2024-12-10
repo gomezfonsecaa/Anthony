@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 You can find a copy of my CV [here](Anthony_Gomez_Fonseca_CV.pdf).
