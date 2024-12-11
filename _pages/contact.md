@@ -13,10 +13,7 @@ author_profile: true
 
 **Address**: 
 Anthony Gómez-Fonseca
-
 Department of Mathematics 
-
 255 Hurley Bldg.
-
 Notre Dame, IN 46556 USA
 
