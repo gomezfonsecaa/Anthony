@@ -26,3 +26,7 @@ author_profile: true
 0. Roxana Smarandache, Anthony Gómez-Fonseca and David G. M. Mitchell, “**Using Minors to Construct Generator Matrices for Quasi-Cyclic LDPC Codes**,” 2022 IEEE International Symposium on Information Theory (ISIT), Espoo, Finland, June 2022, pp. 548-553, doi: [10.1109/ISIT50566.2022.9834862](https://ieeexplore.ieee.org/document/9834862).
 0. Anthony Gómez-Fonseca, Roxana Smarandache and David G. M. Mitchell, “**Necessary and Sufficient Girth Conditions for LDPC Tanner Graphs with Denser Protographs**,” 2021 11th International Symposium on Topics in Coding (ISTC), Montreal, QC, Canada, August 2021, pp. 1-5, doi: [10.1109/ISTC49272.2021.9594176](https://ieeexplore.ieee.org/document/9594176).
 {: reversed="reversed"}
+
+---
+
+My research can also be found in [Google Scholar](https://scholar.google.com/citations?user=x1b8qjgAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-3569-9304).
