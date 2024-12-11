@@ -9,4 +9,10 @@ author_profile: true
 
 ---
 
-I will post my contact info here.
+**Email**: agomezfo@nd.edu
+
+**Google Scholar**: 
+
+**ORCID**: 
+
+**ResearchGate**:
