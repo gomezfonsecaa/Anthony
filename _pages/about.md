@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![image alt >](/images/gomez-fonseca.PNG.jpg)
+![image alt >](/images/gomez_fonseca.PNG.jpg)
 
 I am a graduate student in the [Department of Mathematics](https://math.nd.edu) at the [University of Notre Dame](https://www.nd.edu). My PhD advisor is [Dr. Roxana Smarandache](https://math.nd.edu/people/faculty/roxana-smarandache/). 
 
