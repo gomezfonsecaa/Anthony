@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /
+hidden: true
 title: "Welcome!"
 author_profile: false
 redirect_from: 
